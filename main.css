@@ -1,0 +1,23 @@
+body{
+	background:#ffffff;
+}
+#macpath{
+	
+}
+#mactkgsan{
+	margin-right:5px;
+	float:left;
+}
+#message{
+	font-size:3em;
+	display:table-cell;
+}
+h2{
+	clear:left;
+}
+#main{
+	width:85%;
+	background:#ffffff;
+	margin:auto;
+	padding:4px;
+}
